@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adodem", "Adodem\Adodem.csproj", "{5E487D58-E6C6-4154-8D1C-1932EA24AF07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIAdodem", "WebAPIAdodem\WebAPIAdodem.csproj", "{47DC1DAA-D289-4C4D-81F2-7239DDEC0921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDataAccess", "EmployeeDataAccess\EmployeeDataAccess.csproj", "{0D84EDCB-44C0-44EC-82CE-914CB99A1EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E487D58-E6C6-4154-8D1C-1932EA24AF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E487D58-E6C6-4154-8D1C-1932EA24AF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E487D58-E6C6-4154-8D1C-1932EA24AF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E487D58-E6C6-4154-8D1C-1932EA24AF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47DC1DAA-D289-4C4D-81F2-7239DDEC0921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DC1DAA-D289-4C4D-81F2-7239DDEC0921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DC1DAA-D289-4C4D-81F2-7239DDEC0921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DC1DAA-D289-4C4D-81F2-7239DDEC0921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D84EDCB-44C0-44EC-82CE-914CB99A1EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D84EDCB-44C0-44EC-82CE-914CB99A1EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D84EDCB-44C0-44EC-82CE-914CB99A1EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D84EDCB-44C0-44EC-82CE-914CB99A1EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
